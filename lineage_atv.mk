@@ -46,4 +46,4 @@ PRODUCT_PACKAGES += \
 
 # priv-app permissions
 PRODUCT_COPY_FILES +=\
-    device/lineage/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml
+    device/custom/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml
